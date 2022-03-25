@@ -14,9 +14,7 @@ spring:
     show-sql: true
 
   redis:
-    host: 127.0.0.1
-    port: 6379
-    password: Zc@123456
+    host: 172.16.10.43
     database: 1
 
 
